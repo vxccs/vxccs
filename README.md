@@ -1,16 +1,14 @@
-### Hi there 👋
+### hi, i'm vicc!
 
-<!--
-**vxccs/vxccs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const vicc = {
+  code: ['JavaScript', 'HTML', 'CSS', 'Python', 'Java'],
+  technologies: {
+    js: ['Node', 'Express'],
+    python: ['Flask', 'Django'],
+    dbs: ['Mongo', 'SQL']
+  },
+  speaks: ['es_ES', 'en_EN'],
+  interests: ['web dev', 'tech', 'graphic design', 'music'],
+};
+```
