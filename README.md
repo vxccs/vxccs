@@ -2,7 +2,7 @@
 
 ```js
 const vicc = {
-  code: ['JavaScript', 'HTML', 'CSS', 'Python', 'Java'],
+  code: ['JavaScript', 'HTML', 'CSS', 'Python', 'Java', 'C'],
   technologies: {
     js: ['Node', 'Express'],
     python: ['Flask', 'Django'],
