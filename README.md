@@ -9,6 +9,6 @@ const vicc = {
     dbs: ['Mongo', 'SQL']
   },
   speaks: ['es_ES', 'en_EN'],
-  interests: ['web dev', 'tech', 'graphic design', 'music'],
+  interests: ['web dev', 'tech', 'graphic design', 'music', 'film & tv'],
 };
 ```
