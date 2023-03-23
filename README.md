@@ -3,8 +3,8 @@
 ```js
 const vicc = {
   code: ['JavaScript', 'HTML', 'CSS', 'Python', 'Java', 'C'],
-  technologies: {
-    js: ['React', 'Node', 'Express'],
+  techs: {
+    js: ['React', 'Vue', 'Node', 'Express'],
     python: ['Django', 'Flask'],
     dbs: ['Mongo', 'SQL']
   },
