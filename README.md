@@ -6,7 +6,7 @@ const vicc = {
   techs: {
     js: ['React', 'Vue', 'Node', 'Express'],
     python: ['Django', 'Flask'],
-    dbs: ['Mongo', 'SQL']
+    dbs: ['Mongo', 'SQL', 'GraphQL']
   },
   speaks: ['es_ES', 'en_EN'],
   interests: ['web dev', 'tech', 'graphic design', 'music', 'film & tv'],
