@@ -4,7 +4,7 @@
 const vicc = {
   code: ['JavaScript', 'HTML', 'CSS', 'Python', 'Java', 'C'],
   techs: {
-    js: ['React', 'Vue', 'Node', 'Express'],
+    js: ['Next.js', 'React', 'Vue', 'Node', 'Express'],
     python: ['Django', 'Flask'],
     dbs: ['Mongo', 'SQL', 'GraphQL']
   },
